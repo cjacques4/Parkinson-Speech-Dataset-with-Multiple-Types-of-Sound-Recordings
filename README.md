@@ -29,15 +29,16 @@ Par _Clément JACQUES_ et _Nissrine AIT ALI_
 `* Le nom du ou des élèves`  
 `* Ce fichier ppt doit être dans le github`  
 
---
+-----------------  
+
 ## 2) Informations sur le jeu de données : [Dataset et description](https://archive.ics.uci.edu/ml/datasets/Parkinson+Speech+Dataset+with++Multiple+Types+of+Sound+Recordings)
 
 ### i) Introduction
 La maladie de Parkinson est une maladie neurodégénérative d'étiologie inconnue. Au cours de son parcours, elle provoque une déficience vocale chez environ 90% des patients. Les patients atteints de la maladie souffrent de dysarthrie hypokinétique, qui se manifeste dans tous les aspects de la production de la parole: respiration, phonation, articulation, nasalité et prosodie. Pour les évaluer, les cliniciens ont adopté des méthodes perceptuelles, basées sur des signaux acoustiques, permettant de distinguer différents états pathologiques. Afin d'améliorer ces évaluations, dans ce jeu de données, ils ont utilisé une variété d'échantillons de voix comprenant les nombres de 1 à 10, quatre phrases rimées, neuf mots turcs plus les voyelles maintenues «a», «o» et «u». Des échantillons ont été prélevés chez 40 personnes, dont 20 atteintes de la maladie.  
 
-*La cible à prédire est l’échelle UPDRS (Unified Parkinson Disease Rating Scale)  
-*L’UPDRS (échelle d’évaluation unifiée pour la maladie de Parkinson), est une méthode efficace d’évaluation, très employée à travers le monde.  
-*Elle est simple, globale, et n’utilise pas d’appareillages de mesure pour évaluer le handicap et ne fait appel qu’à l’expérience du neurologue.
+* La cible à prédire est l’échelle UPDRS (Unified Parkinson Disease Rating Scale)  
+* L’UPDRS (échelle d’évaluation unifiée pour la maladie de Parkinson), est une méthode efficace d’évaluation, très employée à travers le monde.  
+* Elle est simple, globale, et n’utilise pas d’appareillages de mesure pour évaluer le handicap et ne fait appel qu’à l’expérience du neurologue.
 
 ### ii) Database
 
@@ -47,7 +48,8 @@ Après avoir collecté le jeu de données de formation qui comprend plusieurs ty
 
 > Further details are contained in the following reference -- if you use this dataset, please cite: Erdogdu Sakar, B., Isenkul, M., Sakar, C.O., Sertbas, A., Gurgen, F., Delil, S., Apaydin, H., Kursun, O., 'Collection and Analysis of a Parkinson Speech Dataset with Multiple Types of Sound  Recordings', IEEE Journal of Biomedical and Health Informatics, vol. 17(4), pp. 828-834, 2013 
 
---
+-----------------  
+
 ### 3) L'application
 
 Pour répondre à la problématique, nous avons crée un script python qui automatise toute la procédure de modélisation de la base de données :  
@@ -57,5 +59,7 @@ Pour répondre à la problématique, nous avons crée un script python qui autom
 3. Copier la commande `git clone https://github.com/cjacques4/Parkinson-Speech-Dataset-with-Multiple-Types-of-Sound-Recordings` et lancer l'execution  
 4. Retournez dans l'arborescence et allez dans le dossier `Parkinson Speech Dataset with Multiple Types of Sound Recordings Data Set`.  
 5. Ouvrez le script `Projet_Python_DataAnalysis.ipynb`  
---
+
+-----------------    
+
 Par _Clément JACQUES_ et _Nissrine AIT ALI_  
