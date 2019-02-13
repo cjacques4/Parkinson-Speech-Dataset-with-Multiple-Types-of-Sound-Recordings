@@ -1,5 +1,5 @@
 # Parkinson-Speech-Dataset-with-Multiple-Types-of-Sound-Recordings
-Devoir à la maison : _Python for data-science_   
+Devoir à la maison : __Python for data-science__   
 Date de rendu : *15 février 2019*  
 Par _Clément JACQUES_ et _Nissrine AIT ALI_  
 
