@@ -14,8 +14,8 @@ Par _Clément JACQUES_ et _Nissrine AIT ALI_
 * Créer un script python qui automatise toute la procédure de modélisation de la base de données :  
   `* Téléchargement du fichier de données à la main.`  
   `* Data-visualisation des données (via matplotlib, seaborn ou bokeh …)`  
-`* Data-préparation (pandas)`  
-`* Modélisation (scikit learn)`  
+  `* Data-préparation (pandas)`  
+  * Modélisation (scikit learn)  
 `* Optimisation des hyperparamètres (grid search)`  
 `* Visualisation des performance (courbe roc …)`  
 
