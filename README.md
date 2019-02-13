@@ -4,8 +4,7 @@
 ## 1) Rappel des consignes 
 
 ## L’objet du devoir est de mettre en pratique les différentes compétences nécessaires au métier de data-scientist, vues en cours cette année :
-###### • Data-visualisation
-###### • Modélisation
+• Data-visualisation/• Modélisation
 ##### • Usage de Git
 
 ## Une base de donnée distincte est affectée à chaque étudiant du cours selon le fichier excel joint. Chacun doit :
