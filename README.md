@@ -90,14 +90,9 @@ colonne 28: informations sur la classe
 ### 3) L'application
 
 Pour répondre à la problématique, nous avons crée un script python qui automatise toute la procédure de modélisation de la base de données :  
-1. Et de un
-2. Et de deux
-3. Et de trois
-`*maj` + *entree
 
-*Téléchargement du fichier de données à la main.`  
-`*Data-visualisation des données (via matplotlib, seaborn ou bokeh …)`  
-`*Data-préparation (pandas)`  
-`*Modélisation (scikit learn)`  
-`*Optimisation des hyperparamètres (grid search)`  
-`*Visualisation des performance (courbe roc …)`  
+1. Lancer Jupiter  
+2. Ouvrir un nouveau fichier script  
+3. Copier la commande `git clone https://github.com/cjacques4/Parkinson-Speech-Dataset-with-Multiple-Types-of-Sound-Recordings` et lancer l'execution  
+4. Retournez dans l'arborescence et allez dans le dossier `Parkinson Speech Dataset with Multiple Types of Sound Recordings Data Set`.  
+5. Ouvrez le script `Projet_Python_DataAnalysis.ipynb`
