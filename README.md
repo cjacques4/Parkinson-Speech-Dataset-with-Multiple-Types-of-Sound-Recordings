@@ -1,6 +1,5 @@
 # Parkinson-Speech-Dataset-with-Multiple-Types-of-Sound-Recordings
-_Python for data-science_  
-Devoir à la maison  
+Devoir à la maison : _Python for data-science_   
 Date de rendu : *15 février 2019*  
 Par _Clément JACQUES_ et _Nissrine AIT ALI_  
 
@@ -8,8 +7,8 @@ Par _Clément JACQUES_ et _Nissrine AIT ALI_
 
 ### L’objet du devoir est de mettre en pratique les différentes compétences nécessaires au métier de data-scientist, vues en cours cette année :
 * Data-visualisation  
-*Modélisation  
-*Usage de Git
+* Modélisation  
+* Usage de Git
 
 ### Une base de donnée distincte est affectée à chaque étudiant du cours selon le fichier excel joint. Chacun doit :
 * Créer un script python qui automatise toute la procédure de modélisation de la base de données :  
@@ -30,6 +29,7 @@ Par _Clément JACQUES_ et _Nissrine AIT ALI_
 `* Le nom du ou des élèves`  
 `* Ce fichier ppt doit être dans le github`  
 
+--
 ## 2) Informations sur le jeu de données : [Dataset et description](https://archive.ics.uci.edu/ml/datasets/Parkinson+Speech+Dataset+with++Multiple+Types+of+Sound+Recordings)
 
 ### i) Introduction
@@ -47,6 +47,7 @@ Après avoir collecté le jeu de données de formation qui comprend plusieurs ty
 
 > Further details are contained in the following reference -- if you use this dataset, please cite: Erdogdu Sakar, B., Isenkul, M., Sakar, C.O., Sertbas, A., Gurgen, F., Delil, S., Apaydin, H., Kursun, O., 'Collection and Analysis of a Parkinson Speech Dataset with Multiple Types of Sound  Recordings', IEEE Journal of Biomedical and Health Informatics, vol. 17(4), pp. 828-834, 2013 
 
+--
 ### 3) L'application
 
 Pour répondre à la problématique, nous avons crée un script python qui automatise toute la procédure de modélisation de la base de données :  
@@ -55,4 +56,6 @@ Pour répondre à la problématique, nous avons crée un script python qui autom
 2. Ouvrir un nouveau fichier script  
 3. Copier la commande `git clone https://github.com/cjacques4/Parkinson-Speech-Dataset-with-Multiple-Types-of-Sound-Recordings` et lancer l'execution  
 4. Retournez dans l'arborescence et allez dans le dossier `Parkinson Speech Dataset with Multiple Types of Sound Recordings Data Set`.  
-5. Ouvrez le script `Projet_Python_DataAnalysis.ipynb`
+5. Ouvrez le script `Projet_Python_DataAnalysis.ipynb`  
+--
+Par _Clément JACQUES_ et _Nissrine AIT ALI_  
