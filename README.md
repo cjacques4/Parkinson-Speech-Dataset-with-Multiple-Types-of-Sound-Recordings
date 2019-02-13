@@ -29,7 +29,7 @@ Date de rendu : 15 février 2019
 `*Le nom du ou des élèves`  
 `*Ce fichier ppt doit être dans le github`  
 
-### Informations sur le jeu de données:
+## 2) Informations sur le jeu de données : [Dataset et description](https://archive.ics.uci.edu/ml/datasets/Parkinson+Speech+Dataset+with++Multiple+Types+of+Sound+Recordings)
 
 La base de données PD comprend des fichiers de formation et de test. Les données de formation concernent 20 PWP (6 femmes et 14 hommes) et 20 personnes en bonne santé (10 femmes et 10 hommes) qui ont interjeté appel au département de neurologie de la faculté de médecine de Cerrahpasa de l’Université d’Istanbul. De tous les sujets, plusieurs types d’enregistrements sonores (26 échantillons de voix, y compris des voyelles, des nombres, des mots et des phrases courtes) sont effectués. Un groupe de 26 entités linéaires et temporelles est extrait de chaque échantillon vocal. Le score UPDRS ((Unified Park Disease Rating Scale) de chaque patient déterminé par un médecin expert est également disponible dans cet ensemble de données. Cet ensemble de données peut donc également être utilisé pour la régression.  
 
