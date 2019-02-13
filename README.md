@@ -25,11 +25,20 @@ Date de rendu : 15 février 2019
 `*Du code propre, commenté et fonctionnel`  
 `*Un fichier readme expliquant le contexte, et les objectifs`  
 *Un ppt :  
-`*Présenter l’analyse descriptive des données dans un powerpoint qui explique le contexte de la b ase de donnée, la cible à prédire, les différentes features disponibles, les étapes de récupération de données, de features engeneering, les tests des différentes hyper paramètres, et les gains de performance des différents modèles.`  
+`*Présenter l’analyse descriptive des données dans un powerpoint qui explique le contexte de la base de donnée, la cible à prédire, les différentes features disponibles, les étapes de récupération de données, de features engeneering, les tests des différentes hyper paramètres, et les gains de performance des différents modèles.`  
 `*Le nom du ou des élèves`  
 `*Ce fichier ppt doit être dans le github`  
 
 ## 2) Informations sur le jeu de données : [Dataset et description](https://archive.ics.uci.edu/ml/datasets/Parkinson+Speech+Dataset+with++Multiple+Types+of+Sound+Recordings)
+
+### i) Introduction
+La maladie de Parkinson est une maladie neurodégénérative d'étiologie inconnue. Au cours de son parcours, elle provoque une déficience vocale chez environ 90% des patients. Les patients atteints de la maladie souffrent de dysarthrie hypokinétique, qui se manifeste dans tous les aspects de la production de la parole: respiration, phonation, articulation, nasalité et prosodie. Pour les évaluer, les cliniciens ont adopté des méthodes perceptuelles, basées sur des signaux acoustiques, permettant de distinguer différents états pathologiques. Afin d'améliorer ces évaluations, dans ce jeu de données, ils ont utilisé une variété d'échantillons de voix comprenant les nombres de 1 à 10, quatre phrases rimées, neuf mots turcs plus les voyelles maintenues «a», «o» et «u». Des échantillons ont été prélevés chez 40 personnes, dont 20 atteintes de la maladie.  
+
+*La cible à prédire est l’échelle UPDRS (Unified Parkinson Disease Rating Scale)  
+*L’UPDRS (échelle d’évaluation unifiée pour la maladie de Parkinson), est une méthode efficace d’évaluation, très employée à travers le monde.  
+*Elle est simple, globale, et n’utilise pas d’appareillages de mesure pour évaluer le handicap et ne fait appel qu’à l’expérience du neurologue.
+
+### ii) Database
 
 La base de données PD comprend des fichiers de formation et de test. Les données de formation concernent 20 PWP (6 femmes et 14 hommes) et 20 personnes en bonne santé (10 femmes et 10 hommes) qui ont interjeté appel au département de neurologie de la faculté de médecine de Cerrahpasa de l’Université d’Istanbul. De tous les sujets, plusieurs types d’enregistrements sonores (26 échantillons de voix, y compris des voyelles, des nombres, des mots et des phrases courtes) sont effectués. Un groupe de 26 entités linéaires et temporelles est extrait de chaque échantillon vocal. Le score UPDRS ((Unified Park Disease Rating Scale) de chaque patient déterminé par un médecin expert est également disponible dans cet ensemble de données. Cet ensemble de données peut donc également être utilisé pour la régression.  
 
@@ -77,3 +86,18 @@ caractéristiques 20-23: nombre d'impulsions, nombre de périodes, période moye
 caractéristiques 24-26: fraction de trames non exprimées localement, nombre de coupures de voix, degré de rupture de voix, 
 
 colonne 28: informations sur la classe 
+
+### 3) L'application
+
+Pour répondre à la problématique, nous avons crée un script python qui automatise toute la procédure de modélisation de la base de données :  
+1. Et de un
+2. Et de deux
+3. Et de trois
+`*maj` + *entree
+
+*Téléchargement du fichier de données à la main.`  
+`*Data-visualisation des données (via matplotlib, seaborn ou bokeh …)`  
+`*Data-préparation (pandas)`  
+`*Modélisation (scikit learn)`  
+`*Optimisation des hyperparamètres (grid search)`  
+`*Visualisation des performance (courbe roc …)`  
