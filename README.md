@@ -25,7 +25,7 @@ Par _Clément JACQUES_ et _Nissrine AIT ALI_
   * Du code propre, commenté et fonctionnel  
   * Un fichier readme expliquant le contexte, et les objectifs  
 * Un ppt :  
-  * Présenter l’analyse descriptive des données dans un powerpoint qui explique le contexte de la base de donnée, la cible à prédire, les différentes features disponibles, les étapes de récupération de données, de features engeneering, les tests des différentes hyper paramètres, et les gains de performance des différents modèles.`  
+  * Présenter l’analyse descriptive des données dans un powerpoint qui explique le contexte de la base de donnée, la cible à prédire, les différentes features disponibles, les étapes de récupération de données, de features engeneering, les tests des différentes hyper paramètres, et les gains de performance des différents modèles.  
   * Le nom du ou des élèves  
   * Ce fichier ppt doit être dans le github  
 
